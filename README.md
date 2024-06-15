@@ -1,7 +1,7 @@
 "# day15 project2 completed" 
-   *FORM DATA APPEND TO TABLE*
-      TABLE CONTAINS:
-        1.FirstName 📛
+   *FORM DATA APPEND TO TABLE* </br>
+      TABLE CONTAINS:</br>
+        1.FirstName 📛 
         2.LastName
         3.Pincode  
         4.Gender 👨‍🦲👩‍🦲
